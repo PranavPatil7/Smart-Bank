@@ -5,18 +5,7 @@
 
 <h3 align="center">SmartBank</h3>
 
-<p align="center">
-    A demo banking app made with React Native and Supabase. 
-    <br />
-    Designed by <a href="https://twitter.com/uiuxadrian">Adrian Kuleszo</a>
-    <br />
-    Demo app created by <a href="https://twitter.com/edrickleong_">Edrick Leong</a>
-    <br />
-    <br />
-    <a href="https://github.com/edrickleong/smartbank/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/edrickleong/smartbank/issues">Request Feature</a>
-</p>
+
 
 ![Mockup](docs/images/mockup.png)
 
